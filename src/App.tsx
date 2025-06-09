@@ -142,13 +142,13 @@ const App: React.FC = () => {
             or just want to say hi, I'll try my best to get back to you!
           </p>
           <div className="social-links">
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="social-link">
+            <a href="https://github.com/Vishwasmb10" target="_blank" rel="noopener noreferrer" className="social-link">
               <FaGithub />
             </a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="social-link">
+            <a href="https://www.linkedin.com/in/vishwas-m-bharadwaj-729b89267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" className="social-link">
               <FaLinkedin />
             </a>
-            <a href="mailto:your.email@example.com" className="social-link">
+            <a href="mailto:vishwasmb.hassan@gmail.com" className="social-link">
               <FaEnvelope />
             </a>
           </div>
